@@ -1,6 +1,6 @@
 ### Hi there, I'm Keshav Sharma. 👋
 
-- 🔭 I’m currently a Final year undergrad student at Birla Institute of Technology, Mesra majoring in Computer Science Engineering.
+- 🔭 Bachelor of technology from Birla Institute of Technology, Mesra majored in Computer Science Engineering.
 - 🌱 I’m currently following FULL STACK DEVELOPER path.
 - ⚡ Fun fact: I love to play Guitar and Read Books.
 
